@@ -1,5 +1,5 @@
 streamlit
-matplot.lib
+matplotlib
 colour-science
 numpy
 pandas
